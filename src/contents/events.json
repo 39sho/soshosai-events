@@ -58,5 +58,90 @@
         "title": "蒼翔祭ハッカソン発表会",
         "description": "",
         "place": "講義棟 大講義室"
+    },
+    {
+        "title": "DMC たこ焼き、焼き鳥",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "SAISUR ジャスミンティー",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "草野球 焼きそば",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "創明寮西2 タピオカミルクティー",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "水泳部 玉こんにゃく",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "サジ研 チキンカレー、ナンなど",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "トライアスロン おでん",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "カンフー 水餃子、肉まん、小籠包など",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "IoTピザ マルゲリータ、ジェノベーゼ、ラズベリーパイ",
+        "description": "",
+        "place": "模擬店 学生スペース"
+    },
+    {
+        "title": "パティスリー 生パイ、シュークリーム",
+        "description": "土日",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "Gunes. ケバブ、チュロスなど",
+        "description": "土日",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "梅津フーズ たこ焼き、フリフリポテトなど",
+        "description": "土日",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "キューバサンド キューバサンド、ロングポテト",
+        "description": "土日",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "吉田ベーカー チョコバナナ、クレープ",
+        "description": "日",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "二郎 ラーメン",
+        "description": "日",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "ら・サンタ 揚げたこ焼き、揚げクリームパンなど",
+        "description": "土",
+        "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "俺の窯 ハーフピザ、フリフリチキン",
+        "description": "土",
+        "place": "模擬店 企業スペース"
     }
 ]
