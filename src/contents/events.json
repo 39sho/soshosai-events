@@ -60,88 +60,163 @@
         "place": "講義棟 大講義室"
     },
     {
-        "title": "DMC たこ焼き、焼き鳥",
+        "title": "DMC:たこ焼き、焼き鳥",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "SAISUR ジャスミンティー",
+        "title": "SAISUR:ジャスミンティー",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "草野球 焼きそば",
+        "title": "草野球:焼きそば",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "創明寮西2 タピオカミルクティー",
+        "title": "創明寮西2:タピオカミルクティー",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "水泳部 玉こんにゃく",
+        "title": "水泳部:玉こんにゃく",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "サジ研 チキンカレー、ナンなど",
+        "title": "サジ研:チキンカレー、ナンなど",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "トライアスロン おでん",
+        "title": "トライアスロン:おでん",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "カンフー 水餃子、肉まん、小籠包など",
+        "title": "カンフー:水餃子、肉まん、小籠包など",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "IoTピザ マルゲリータ、ジェノベーゼ、ラズベリーパイ",
+        "title": "IoTピザ:マルゲリータ、ジェノベーゼ、ラズベリーパイ",
         "description": "",
         "place": "模擬店 学生スペース"
     },
     {
-        "title": "パティスリー 生パイ、シュークリーム",
+        "title": "パティスリー:生パイ、シュークリーム",
         "description": "土日",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "Gunes. ケバブ、チュロスなど",
+        "title": "Gunes.:ケバブ、チュロスなど",
         "description": "土日",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "梅津フーズ たこ焼き、フリフリポテトなど",
+        "title": "梅津フーズ:たこ焼き、フリフリポテトなど",
         "description": "土日",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "キューバサンド キューバサンド、ロングポテト",
+        "title": "キューバサンド:キューバサンド、ロングポテト",
         "description": "土日",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "吉田ベーカー チョコバナナ、クレープ",
+        "title": "吉田ベーカー:チョコバナナ、クレープ",
         "description": "日",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "二郎 ラーメン",
+        "title": "二郎:ラーメン",
         "description": "日",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "ら・サンタ 揚げたこ焼き、揚げクリームパンなど",
+        "title": "ら・サンタ:揚げたこ焼き、揚げクリームパンなど",
         "description": "土",
         "place": "模擬店 企業スペース"
     },
     {
-        "title": "俺の窯 ハーフピザ、フリフリチキン",
+        "title": "俺の窯:ハーフピザ、フリフリチキン",
         "description": "土",
         "place": "模擬店 企業スペース"
+    },
+    {
+        "title": "OMG",
+        "description": "土 11:00~12:30",
+        "place": "ステージ"
+    },
+    {
+        "title": "吹奏楽",
+        "description": "土 12:30~13:00",
+        "place": "ステージ"
+    },
+    {
+        "title": "大抽選会",
+        "description": "土 11:00~12:30",
+        "place": "ステージ"
+    },
+    {
+        "title": "CUO",
+        "description": "土 14:00~17:00",
+        "place": "ステージ"
+    },
+    {
+        "title": "ゲスト",
+        "description": "日 11:00~12:00",
+        "place": "ステージ"
+    },
+    {
+        "title": "大抽選会",
+        "description": "日 12:00~13:00",
+        "place": "ステージ"
+    },
+    {
+        "title": "軽音",
+        "description": "日 16:00~18:00",
+        "place": "ステージ"
+    },
+    {
+        "title": "花火",
+        "description": "日 18:30~",
+        "place": "ステージ"
+    },
+    {
+        "title": "カンフー",
+        "description": "土 11:30~12:00",
+        "place": "講堂"
+    },
+    {
+        "title": "軽音",
+        "description": "土 12:30~14:30",
+        "place": "講堂"
+    },
+    {
+        "title": "カンフー",
+        "description": "日 11:30~12:00",
+        "place": "講堂"
+    },
+    {
+        "title": "吹奏楽",
+        "description": "日 12:30~13:30",
+        "place": "講堂"
+    },
+    {
+        "title": "CUO",
+        "description": "日 13:30~15:30",
+        "place": "講堂"
+    },
+    {
+        "title": "映画研究部",
+        "description": "日 16:00~18:00",
+        "place": "講堂"
+    },
+    {
+        "title": "花火",
+        "description": "日 18:30~",
+        "place": "講堂"
     }
 ]
